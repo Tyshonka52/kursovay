@@ -26,3 +26,64 @@ color:yellow;
 background:purple;
 float:left;
 }
+BODY {
+background-image : url(ris1.png) ;
+background-repeat: no-repeat;
+background-position: 75% 25%;
+}
+h1{
+font-family: verdana, arial, sans-serif;
+font-style:normal;
+}
+h2{
+font-family: verdana, arial, sans-serif; 
+font-style:italic ;
+}
+h3{
+font-family: verdana, arial, sans-serif;
+font-style:oblique;
+}
+h1{
+font-family: verdana, arial, sans-serif; 
+font-variant:small-caps; 
+}
+h2{font-family: verdana, arial, sans-serif;}
+H1 {font-family: arial, verdana, sans-serif;}
+P {
+font-family: arial, verdana, sans-serif;
+font-weight: bold;
+}
+h1 {
+font-family: arial, verdana, sans-serif; 
+font-size: 18px;
+}
+h2{
+font-family: arial, verdana, sans-serif;
+font-size: 36px;
+color: red; 
+}
+P{ font : italic normal bold 30px arial,sans-serif; }
+h1{ text-align:center;}
+h2 {text-align:left;}
+h3 {text-align:right;}
+p {text-align:justify;}
+h1 {
+text-align:center; 
+text-decoration:underline;
+}
+h2 {
+text-align:center;
+text-decoration:overline;
+}
+h3 {
+text-align:center; 
+text-decoration:line-through;
+}
+h1{text-align:center;}
+p {
+text-indent: 40px;
+}
+h1 { letter-spacing: 10px;}
+p{ letter-spacing :4px; }
+h1 { word-spacing: 20px;}
+p{ word-spacing :10px; }
