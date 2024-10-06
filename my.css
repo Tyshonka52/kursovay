@@ -1,0 +1,28 @@
+.left 
+{
+width:30%;
+ height:30%;
+ color:red;
+background:green;
+float:left;
+}
+BODY {
+background: #ffee8c url(ris1.png) no-repeat fixed top right ;
+}
+.center
+{
+width:30%;
+height:30%;
+color:blue;
+background:pink;
+background-position:top right;
+float:left;
+}
+.right
+{
+width:30%;
+height:30%;
+color:yellow;
+background:purple;
+float:left;
+}
